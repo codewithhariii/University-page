@@ -802,7 +802,10 @@ textarea {
     .location {
         padding: 50;
     }
-
+.inp input,
+.inp textarea{
+    padding:20px
+}
     .contact-us {
         flex-direction: column-reverse;
     }
