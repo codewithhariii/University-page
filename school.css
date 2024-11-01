@@ -794,7 +794,8 @@ span {
     padding: 15 400 15 20;
 }
 
-textarea {
+input,textarea {
+    outline:none;
     resize: none;
 }
 
