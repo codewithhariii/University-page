@@ -1,1 +1,1 @@
-# school-page
+# University-page
